@@ -1,7 +1,7 @@
 # Argus
 # An Intelligent Multi-Camera Identification System
 
-# Summary
+# Introduction
 
 Project Argus is a real-time AI surveillance platform that detects, identifies, and tracks people and vehicles across multiple camera feeds.
 
